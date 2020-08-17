@@ -4,4 +4,4 @@ A repo to showcase material design in Android
 ### https://material.io/
 [Android Material](https://material.io/develop/android)
 
-You can pull specific branch related with material design implementation
+You can pull specific branch related with material design implementation with base minimun code. No B.S. code, one feature at a time.
